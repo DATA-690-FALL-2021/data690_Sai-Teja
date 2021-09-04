@@ -1,4 +1,4 @@
-![](Photo.JPG)
+![](Photo%20(1).jpg)
 # PROFILE
 - Name:Sai Teja Avadhootha
 - Email:asaitej1@umbc.edu
