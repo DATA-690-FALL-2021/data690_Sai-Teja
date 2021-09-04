@@ -30,7 +30,7 @@ hazardous environments and also where Human reach is unfeasible.
   
 # WORK EXPERIENCE
 - Intern
-  -Bharat Dynamics Limited (BDL)
+  - Bharat Dynamics Limited (BDL)
 - Intern
   - Bharat Sanchar Nigam Limited (BSNL)
 - IT Service Desk Analyst
