@@ -1,6 +1,6 @@
 # PROFILE
 - Name:Sai Teja Avadhootha
-- Email:saitejaavadhootha26@gmail.com
+- Email:asaitej1@umbc.edu
 - Phone:+1 667-345-3560
 
 # CAREER OBJECTIVE
@@ -21,12 +21,12 @@
  
 # PROJECTS
 - Mine Detection Robot (12/2019 - 03/2020)
-  -A Fully Functional Metallic Mines Detecting Robot controlled by a Bluetooth Enabled Smartphone. The objective of which is to reduce Human effort and Risk involved in the Process of detecting Mines in
+  - A Fully Functional Metallic Mines Detecting Robot controlled by a Bluetooth Enabled Smartphone. The objective of which is to reduce Human effort and Risk involved in the Process of detecting Mines in
 hazardous environments and also where Human reach is unfeasible. 
 - Arduino Based Smartphone Controlled Robot Car(06/2019 - 07/2019)
-  -A Completely functional Robot Controlled by a Smartphone that can be used in many Real-time Applications based on the Requirement. 
+  - A Completely functional Robot Controlled by a Smartphone that can be used in many Real-time Applications based on the Requirement. 
 - Automatic Night Light Control System (2018)
-  -A Working Demonstration of a Darkness Detector which automatically switches on Power in a room using Sensors without Human involvement.
+  - A Working Demonstration of a Darkness Detector which automatically switches on Power in a room using Sensors without Human involvement.
   
 # WORK EXPERIENCE
 - Intern
