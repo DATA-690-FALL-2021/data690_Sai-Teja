@@ -3,7 +3,7 @@
 # Topic:
 - Economy and Growth
 # Indicators:
-- Exports of goods and services(BoP, current US$)
+- Exports of goods and services (% of GDP)
 - Travel services (% of service exports, BoP)
 - Trade (% of GDP)
 - GDP per capita, PPP (current international $)
