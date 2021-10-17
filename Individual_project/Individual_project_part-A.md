@@ -25,3 +25,10 @@
 # Economic growth due to Industries:
 - Industrial developements have historically led to periods of economic growth. Industrialization provides increased employement opportunities thereby increasing the income of the community which leads to increase in the economic growth of the country.
 ![Image](Industry.png)
+- The above graph shows us the percentage of the countries GDP which is provided by the industries from 2015-2020.
+- In this china tops the list with 37% of its GDP is provided by the industries. Despite having a slight downfall from the year 2019 because of the pandemic still china stands tall by the end of 2020.
+- India starts at second place with 27% of its GDP is provided by industries and ends up in the third place by the end of 2020 with 23%.
+- Bangladesh is the only country whose stats keeps on improving by the years and due to the pandemic percentage decreased by 1% from 2019-2020.
+# Economic growth due to Trades:
+- Countries that are open to International trade tend to grow faster, improve productivity and provide higher income and more opportunities to their people which helps in economic growth of the respective country.
+- 
