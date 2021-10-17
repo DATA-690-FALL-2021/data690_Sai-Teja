@@ -32,3 +32,4 @@
 # Economic growth due to Trades:
 - Countries that are open to International trade tend to grow faster, improve productivity and provide higher income and more opportunities to their people which helps in economic growth of the respective country.
 ![Image](Trade.png)
+-
