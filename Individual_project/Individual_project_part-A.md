@@ -32,3 +32,5 @@
 # Economic growth due to Trades:
 - Countries that are open to International trade tend to grow faster, improve productivity and provide higher income and more opportunities to their people which helps in economic growth of the respective country.
 ![Image](trade.png)
+- The above graph shows us that 56% of United kingdom’s GDP is serving by its international trading. Whereas, United states only serve 26% through its trading programs.
+## GDP per capita, PPP (current international $):
