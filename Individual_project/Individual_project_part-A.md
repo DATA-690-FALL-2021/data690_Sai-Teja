@@ -20,5 +20,5 @@
 ![Image](exports%20of%20goods%20and%20services.png) 
 - The above Bar graph depicts the percentage of exports of goods and services providing to its GDP by different countries in the year 2015.  
 - Exports of goods and servieces of United Kingdom serves 27.2% to its GDP and stand at the top which serves more percentage to GDP through its exports.
-- Despite having the more advancement in technology and infrastructure United states stands at the last by only serving 12% to its GDP through the exports.
+- Despite having more advancement in technology and infrastructure United states stands at the last by only serving 12% to its GDP through the exports.
 - China stands second by serving 21%, India by 19% and Bangladesh by 17%. 
