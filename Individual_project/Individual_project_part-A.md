@@ -36,3 +36,4 @@
 ## GDP per capita, PPP (current international $):
 - Gross domestic product (GDP) is a measurement that captures a country's economic output. Countries with larger GDPs will have a greater amount of goods and services generated within them.
 ![Image](newplot.png)
+- From the above pie chart we can clearly get to conclusion that the United states have the highest GDP of 46.8% and bangladesh having the lowest GDP of 2.93%. Despite having the low contributions from exports and trading to United states, Science and technology is which helped in getting the country more GDP when compared to others.
