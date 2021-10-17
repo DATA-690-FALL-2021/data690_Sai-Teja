@@ -24,4 +24,4 @@
 - China stands second by serving 21%, India by 19% and Bangladesh by 17%. 
 # Economic growth due to Industries:
 - Industrial developements have historically led to periods of economic growth. Industrialization provides increased employement opportunities thereby increasing the income of the community which leads to increase in the economic growth of the country.
-- 
+![Image](Industry.png)
