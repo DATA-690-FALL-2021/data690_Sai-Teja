@@ -38,4 +38,4 @@
 ![Image](newplot.png)
 - From the above pie chart we can clearly get to conclusion that the United states have the highest GDP of 46.8% and bangladesh having the lowest GDP of 2.93%. Despite having the low contributions from exports and trading to United states, Science and technology is which helped in getting the country more GDP when compared to others.
 # Conclusion:
-From the above information we got to know how exports of goods and services, Industry and Trade contribute their part in the economic growth of the respective countries. 
+From the above information we got to know how exports of goods and services, Industry and Trade contribute their part in the economic growth of the respective countries. Also we compared the GDP per capita 
