@@ -4,7 +4,7 @@
 - Economy and Growth
 # Indicators:
 - Exports of goods and services (% of GDP)
-- Travel services (% of service exports, BoP)
+- Industry (including construction), value added (% of GDP)
 - Trade (% of GDP)
 - GDP per capita, PPP (current international $)
 # Countries compared:
@@ -22,3 +22,6 @@
 - Exports of goods and servieces of United Kingdom serves 27.2% to its GDP and stand at the top which serves more percentage to GDP through its exports.
 - Despite having more advancement in technology and infrastructure United states stands at the last by only serving 12% to its GDP through the exports.
 - China stands second by serving 21%, India by 19% and Bangladesh by 17%. 
+# Economic growth due to Industries:
+- Industrial developements have historically led to periods of economic growth. Industrialization provides increased employement opportunities thereby increasing the income of the community which leads to increase in the economic growth of the country.
+- 
