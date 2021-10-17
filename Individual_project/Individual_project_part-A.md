@@ -34,3 +34,5 @@
 ![Image](trade.png)
 - The above graph shows us that 56% of United kingdom’s GDP is serving by its international trading. Whereas, United states only serve 26% through its trading programs.
 ## GDP per capita, PPP (current international $):
+- Gross domestic product (GDP) is a measurement that captures a country's economic output. Countries with larger GDPs will have a greater amount of goods and services generated within them.
+![Image](newplot.png)
