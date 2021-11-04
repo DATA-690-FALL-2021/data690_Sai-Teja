@@ -1,0 +1,198 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2015,26.831394833,NV.IND.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+1,2016,27.3461176034,NV.IND.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+2,2017,27.750899983,NV.IND.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+3,2018,28.5369876541,NV.IND.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+4,2019,29.648678815,NV.IND.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+5,2020,28.789417385,NV.IND.TOTL.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+6,2015,40.8413399695,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+7,2016,39.5806215023,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+8,2017,39.8516984492,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+9,2018,39.6870118234,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+10,2019,38.5874034176,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+11,2020,37.8209172526,NV.IND.TOTL.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+12,2015,27.3473914779,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+13,2016,26.61899994,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+14,2017,26.5000166467,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+15,2018,26.3828986911,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+16,2019,24.1775949697,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+17,2020,23.1987388081,NV.IND.TOTL.ZS,IND,India,South Asia,Lower middle income,IBRD
+18,2015,18.4199024713,NV.IND.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+19,2016,17.8524518828,NV.IND.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+20,2017,18.1674309743,NV.IND.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+21,2018,18.1245424392,NV.IND.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+22,2019,17.8321903772,NV.IND.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+23,2020,16.9163069432,NV.IND.TOTL.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+24,2015,18.5445077473,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+25,2016,17.9650951868,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+26,2017,18.2514054669,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+27,2018,18.5278233112,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+28,2019,18.1563709662,NV.IND.TOTL.ZS,USA,United States,North America,High income,Not classified
+29,2015,3555.505259706,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+30,2016,3848.9576636919,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+31,2017,4160.7033247153,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+32,2018,4547.4795716194,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+33,2019,4954.7614000529,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+34,2020,5082.6807503643,NY.GDP.PCAP.PP.CD,BGD,Bangladesh,South Asia,Lower middle income,IDA
+35,2015,12978.7689105655,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+36,2016,13572.6199886994,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+37,2017,14344.4212394424,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+38,2018,15608.9670692513,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+39,2019,16772.8431692214,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+40,2020,17311.9979202848,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+41,2015,5464.859178008,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+42,2016,5839.8648167547,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+43,2017,6182.9221085747,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+44,2018,6675.3612941094,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+45,2019,6997.8639882409,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+46,2020,6454.3473563818,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+47,2015,42567.5917974837,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+48,2016,44149.9999768118,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+49,2017,45744.7104907571,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+50,2018,47145.8840978145,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+51,2019,48513.4975021936,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+52,2020,44916.2283385249,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+53,2015,56863.3714957652,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+54,2016,58021.4004997125,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+55,2017,60109.6557260477,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+56,2018,63064.4184096728,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+57,2019,65279.529026095,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+58,2020,63543.577788724,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+59,2015,17.3366737865,NE.EXP.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+60,2016,16.6497149603,NE.EXP.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+61,2017,15.0361076279,NE.EXP.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+62,2018,14.8009581781,NE.EXP.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+63,2019,15.3232474433,NE.EXP.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+64,2020,12.1811153367,NE.EXP.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+65,2015,21.3540798829,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+66,2016,19.5843800536,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+67,2017,19.6922769882,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+68,2018,19.1121035364,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+69,2019,18.4963930787,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+70,2020,18.4969112497,NE.EXP.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+71,2015,19.8131891564,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+72,2016,19.1582349106,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+73,2017,18.7917648393,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+74,2018,19.9412406764,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+75,2019,18.429386508,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+76,2020,18.076586788,NE.EXP.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+77,2015,27.2637435854,NE.EXP.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+78,2016,28.2370587834,NE.EXP.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+79,2017,30.1083210836,NE.EXP.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+80,2018,30.8900677563,NE.EXP.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+81,2019,31.0793597401,NE.EXP.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+82,2020,27.3663507161,NE.EXP.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+83,2015,12.4236465532,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+84,2016,11.8813817409,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+85,2017,12.1504504393,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+86,2018,12.2681984324,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+87,2019,11.7329568254,NE.EXP.GNFS.ZS,USA,United States,North America,High income,Not classified
+88,2015,156256287.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+89,2016,157977151.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+90,2017,159685421.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+91,2018,161376713.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+92,2019,163046173.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+93,2020,164689383.0,SP.POP.TOTL,BGD,Bangladesh,South Asia,Lower middle income,IDA
+94,2015,1371220000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+95,2016,1378665000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+96,2017,1386395000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+97,2018,1392730000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+98,2019,1397715000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+99,2020,1402112000.0,SP.POP.TOTL,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+100,2015,1310152392.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+101,2016,1324517250.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+102,2017,1338676779.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+103,2018,1352642283.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+104,2019,1366417756.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+105,2020,1380004385.0,SP.POP.TOTL,IND,India,South Asia,Lower middle income,IBRD
+106,2015,65116219.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+107,2016,65611593.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+108,2017,66058859.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+109,2018,66460344.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+110,2019,66836327.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+111,2020,67215293.0,SP.POP.TOTL,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+112,2015,320738994.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+113,2016,323071755.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+114,2017,325122128.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+115,2018,326838199.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+116,2019,328329953.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+117,2020,329484123.0,SP.POP.TOTL,USA,United States,North America,High income,Not classified
+118,2015,3.4,SH.STA.SUIC.P5,BGD,Bangladesh,South Asia,Lower middle income,IDA
+119,2016,3.4,SH.STA.SUIC.P5,BGD,Bangladesh,South Asia,Lower middle income,IDA
+120,2017,3.5,SH.STA.SUIC.P5,BGD,Bangladesh,South Asia,Lower middle income,IDA
+121,2018,3.6,SH.STA.SUIC.P5,BGD,Bangladesh,South Asia,Lower middle income,IDA
+122,2019,3.7,SH.STA.SUIC.P5,BGD,Bangladesh,South Asia,Lower middle income,IDA
+123,2015,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+124,2016,8.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+125,2017,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+126,2018,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+127,2019,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+128,2015,12.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+129,2016,12.1,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+130,2017,12.0,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+131,2018,12.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+132,2019,12.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+133,2015,8.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+134,2016,8.5,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+135,2017,8.2,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+136,2018,8.1,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+137,2019,7.9,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+138,2015,14.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+139,2016,15.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+140,2017,15.9,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+141,2018,15.7,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+142,2019,16.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+143,2015,42.085996307,NE.TRD.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+144,2016,37.954296353,NE.TRD.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+145,2017,35.3040000907,NE.TRD.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+146,2018,38.2448929879,NE.TRD.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+147,2019,36.759299749,NE.TRD.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+148,2020,30.763640323,NE.TRD.GNFS.ZS,BGD,Bangladesh,South Asia,Lower middle income,IDA
+149,2015,39.4641693353,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+150,2016,36.8944150168,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+151,2017,37.6324132404,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+152,2018,37.456243573,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+153,2019,35.8374138163,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+154,2020,34.506887858,NE.TRD.GNFS.ZS,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+155,2015,41.9229138659,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+156,2016,40.0824857133,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+157,2017,40.7424969545,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+158,2018,43.5986571563,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+159,2019,39.3867710425,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+160,2020,36.4698833658,NE.TRD.GNFS.ZS,IND,India,South Asia,Lower middle income,IBRD
+161,2015,56.0002625491,NE.TRD.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+162,2016,58.2845543617,NE.TRD.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+163,2017,61.6614227771,NE.TRD.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+164,2018,62.9701203478,NE.TRD.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+165,2019,63.3973415842,NE.TRD.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+166,2020,55.0905073249,NE.TRD.GNFS.ZS,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+167,2015,27.734464518,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+168,2016,26.496878876,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+169,2017,27.1435227471,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+170,2018,27.4932380834,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+171,2019,26.3141551481,NE.TRD.GNFS.ZS,USA,United States,North America,High income,Not classified
+172,2015,71.514,SP.DYN.LE00.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+173,2016,71.785,SP.DYN.LE00.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+174,2017,72.052,SP.DYN.LE00.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+175,2018,72.32,SP.DYN.LE00.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+176,2019,72.591,SP.DYN.LE00.IN,BGD,Bangladesh,South Asia,Lower middle income,IDA
+177,2015,75.928,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+178,2016,76.21,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+179,2017,76.47,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+180,2018,76.704,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+181,2019,76.912,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+182,2015,68.607,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+183,2016,68.897,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+184,2017,69.165,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+185,2018,69.416,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+186,2019,69.656,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+187,2015,80.956097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+188,2016,81.156097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+189,2017,81.256097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+190,2018,81.256097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+191,2019,81.2048780488,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+192,2015,78.6902439024,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+193,2016,78.5390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+194,2017,78.5390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+195,2018,78.6390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+196,2019,78.787804878,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
